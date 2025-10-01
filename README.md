@@ -1,14 +1,9 @@
-### 👨‍💻 Software Engineer | Backend & Security programmer 🚀
+Backend Engineer
 
-Hello friend. I'm a software engineer with a knack for crafting robust backends. My heart currently beats in TypeScript, and I'm all about building scalable and maintainable systems. Here's a glimpse of my multilingual prowess:
+TypeScript mainly. Java, Python, PHP, Ruby when necessary. C++ when I'm feeling masochistic.
 
-1. **Typescript** 🌐
-2. **Java** ☕
-3. **Python** 🐍
-4. **PHP** 🐘
-5. **Ruby** 💎
-6. **C++** 🚀 (Newbie!)
+5 years in security sector: video management, access control. I can watch you fumble your keycard and remotely lock you out while you're getting coffee. Job perks.
 
-🔒 For the past 5 years, I've been diving deep into the security sector, contributing my skills to a video management service and an access control engine.
+Believer in boring technology, interesting problems, and the radical idea that logs should actually help debug things.
 
-Feel free to explore my repositories, and let's connect for some coding adventures! 🚀👩‍💻
+P.S. I encrypt all my secrets with double ROT13. Nobody but me can read them.
